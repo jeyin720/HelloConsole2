@@ -10,7 +10,7 @@ namespace HelloConsole2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Console?!, 안녕하세요");
+            Console.WriteLine("Hello World?!, 안녕하세요");
         }
     }
 }
